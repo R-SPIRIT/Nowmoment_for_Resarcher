@@ -9,6 +9,7 @@ Orientated to insight-based data analysis and aimed to be a pioneer.<br>
 Core (biological) data analysis as a core service (artificial intelligence) Big data analysis / inference based
 Develop customized data analysis / forecasting solutions and provide institutional data analysis services.<br>  
 <br>
+  
 # Nowmoment_for_Resarcher
 Open source code for common algorithms that researchers uses Version 1 <br>
 <br>
