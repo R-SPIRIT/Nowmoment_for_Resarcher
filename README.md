@@ -1,4 +1,6 @@
-![Rspirit_logo](./Readme_img/Rspirit_1.png?style=centerme)
+<p align="center">
+  <img width="460" height="300" src="./Readme_img/Rspirit_1.png">
+</p>
 # Nowmoment_for_Resarcher
 Open source code for common algorithms that researchers uses Version 1 <br>
 <br>
