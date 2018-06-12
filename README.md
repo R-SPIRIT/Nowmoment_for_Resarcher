@@ -5,4 +5,6 @@
 Open source code for common algorithms that researchers uses Version 1 <br>
 <br>
 <br>
-![NR](./Readme_img/NR_1.png)
+<p align="center">
+  <img src="./Readme_img/NR_1.png">
+</p>
